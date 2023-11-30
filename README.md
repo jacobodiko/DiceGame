@@ -1,2 +1,2 @@
-# MyDiceGame
-A simple Dice Game I created 
+# DiceGame
+A simple Dice Game 
